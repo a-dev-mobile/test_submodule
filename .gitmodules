@@ -1,0 +1,3 @@
+[submodule "packages/feature_api_youmakeapp"]
+	path = packages/feature_api_youmakeapp
+	url = https://github.com/spiks/feature_api_youmakeapp.git
